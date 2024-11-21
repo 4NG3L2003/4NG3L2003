@@ -7,7 +7,6 @@ Hi, I'm Angel Flores!
 <br><br>
 
 - :school: I am  `Angel Fabricio` from [Technological University of Peru(UTP)](https://www.utp.edu.pe/).
-- :trophy: 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer who `likes to work in a team, learn every day something new and always look to the future but always with one foot in the present.` 
 - 🧑‍🎓 I am currently in the `6th` cycle of my degree in `Systems Engineering and Computer Science`.
