@@ -7,11 +7,14 @@ Hi, I'm Angel Flores!
 <br><br>
 
 - :school: I am  `Angel Fabricio` from [Technological University of Peru(UTP)](https://www.utp.edu.pe/).
-- :trophy: 2x `ACPC` Finalist.
+- :trophy: 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+🧑‍💻 I love to use Software as a solution for every Problem.
+💻 I am a programmer who likes to work in a team , learn every day something new and always look to the future but always with one foot in the present.   
+🧑‍🎓 I am currently in the 6th cycle of my degree in Systems Engineering and Computer Science.
+🤓 Always learning new things.
+🤔 I am currently open to a new job opportunity, this is .
+
+
+Translated with DeepL.com (free version)
 <br>
