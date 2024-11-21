@@ -6,7 +6,7 @@ Hi, I'm Angel Flores!
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <br><br>
 
-- :school: I am  `Angel Fabricio` from [Univesidad Tecnologica del Perú (UTP)](https://www.utp.edu.pe/).
+- :school: I am  `Angel Fabricio` from [Technological University of Peru(UTP)](https://www.utp.edu.pe/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
